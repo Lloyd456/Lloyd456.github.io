@@ -1,0 +1,16 @@
+.place__website_top {
+  margin-top: 16%;
+}
+
+@media screen and (max-width: 768px) {
+  .place__website_top {
+    margin-top: 46px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .place__website_top {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}
