@@ -12,7 +12,7 @@
   gap: 16px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1100px) {
   .photo-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -21,7 +21,7 @@
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 900px) {
   .photo-grid {
     width: 94%;
     display: grid;
@@ -31,7 +31,7 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 710px) {
   .photo-grid {
     margin-top: 64px;
     display: grid;
