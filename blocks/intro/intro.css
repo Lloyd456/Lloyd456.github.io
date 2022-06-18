@@ -1,0 +1,15 @@
+.intro {
+  width: 984px;
+}
+
+@media screen and (max-width: 1140px) {
+  .intro {
+    width: 928px;
+  }
+}
+
+@media screen and (max-width: 984px) {
+  .intro {
+    width: 94%;
+  }
+}
